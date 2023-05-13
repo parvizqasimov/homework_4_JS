@@ -1,0 +1,65 @@
+.blue-section {
+    background-color: blue;
+    padding: 20px;
+  }
+
+  .white-section {
+    width: 320px;
+    height: 350px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color:white;  
+  }
+span{
+  width: 100px;
+}
+  .item {
+    margin-bottom: 10px;
+  }
+  #inputField {
+    width: 230px;
+    height:25px;
+    margin-left: 10px;
+    
+  }
+
+  .delete-button {
+    float: right;
+    width: 40px;
+    height: 31px;  
+    margin-left: 10px;
+    background-color: #8e49e7;
+    color: white;
+    border-radius: 10%;
+    font-size: 10px;
+    font-weight: bolder;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .input-wrapper {   
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .button-wrapper {
+    margin-top: 1cm;
+  }
+
+  #addButton {
+    width: 40px;
+    height: 31px;  
+    margin-left: 10px;
+    background-color: #8e49e7;
+    color: white;
+    border-radius: 10%;
+    font-size: 30px;
+    font-weight: bolder;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+  }
